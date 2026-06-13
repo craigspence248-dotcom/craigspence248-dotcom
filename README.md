@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Craig — Junior Penetration Tester (Trainee)
 
-I'm a Junior Penetration Tester currently training with **TCM Security** toward the Practical Junior Penetration Tester (PJPT) certification and also **My Cyber Acadmey ** towards the CREST CPSA. I have qualified in March in COMPTIA SEC+ I build and maintain hands‑on labs to practise the full penetration testing lifecycle:
+I'm a Junior Penetration Tester currently training with **TCM Security** toward the Practical Junior Penetration Tester (PJPT) certification and also **My Cyber Acadmey ** towards the CREST CPSA. I have qualified in March 2026 in COMPTIA SEC+ I build and maintain hands‑on labs to practise the full penetration testing lifecycle:
 
 - Reconnaissance  
 - Scanning & enumeration  
